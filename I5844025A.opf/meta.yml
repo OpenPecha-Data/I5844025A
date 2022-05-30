@@ -1,0 +1,66 @@
+id: I5844025A
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T21:44:17.705705'
+last_modified: '2022-05-30T21:44:17.705710'
+parser: null
+source_metadata:
+  title: Jamyang Loter Wangpo Series
+  language: bo
+  description: 'Texts by and about Jamyang Loter Wangpo (''jam dbyangs blo gter dbang
+    po, 1847–1914):'
+  volume:
+    f04E9:
+      title: Commentary on Nāgārjuna's Verses on the Essence of Dependent Origination
+      base_file: f04E9.txt
+      order: 1
+      parent: Buddhist Philosophy
+    fC55A:
+      title: Guru Yoga
+      base_file: fC55A.txt
+      order: 2
+      parent: Guru Yoga
+    f4BB0:
+      title: 'The Bestowal of Supreme Blessings: Praise to the Vajradhara Loter Wangpo'
+      base_file: f4BB0.txt
+      order: 3
+      parent: Praise
+    fCA2F:
+      title: Prayer to My Root Guru, Jamyang Loter Wangpo
+      base_file: fCA2F.txt
+      order: 4
+      parent: Prayers
+    fDEB6:
+      title: Regularly Recitable Prayer to the Root Guru, Loter Wangpo
+      base_file: fDEB6.txt
+      order: 5
+      parent: Prayers
+    f334E:
+      title: A Song of Prayer to Jamyang Loter Wangpo
+      base_file: f334E.txt
+      order: 6
+      parent: Songs
+    fB286:
+      title: Lament Composed in a State of Deep Sadness
+      base_file: fB286.txt
+      order: 7
+      parent: Songs
+    fF7B6:
+      title: Prayer to Kongtrul Yönten Gyatso
+      base_file: fF7B6.txt
+      order: 8
+      parent: Swift Rebirth Prayers
+    fFF18:
+      title: 'Wondrous Light of the Moon: A Prayer for the Swift Appearance of the
+        Supreme Tulku of Vajradhara'
+      base_file: fFF18.txt
+      order: 9
+      parent: Swift Rebirth Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
